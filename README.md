@@ -15,8 +15,9 @@ strong problem-solving aptitude for creating efficient and userfriendly web app
 
 - 💬 Ask me about **Html,Css,Java Script**
 
-- 📫 How to reach me **nityapatel450@gmsil.com** - 📄 Know about my experiences [https://drive.google.com/file/d/1D7aX4hUbbhAnIPV84L9ivJLCh2uATvFp/view?usp=drive_open]
-- (https://drive.google.com/file/d/1D7aX4hUbbhAnIPV84L9ivJLCh2uATvFp/view?usp=drive_open)
+- 📫 How to reach me **nityapatel450@gmsil.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1D7aX4hUbbhAnIPV84L9ivJLCh2uATvFp/view?usp=drive_open]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
