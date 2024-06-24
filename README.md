@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitya Patel</h1>
-<h3 align="center">As a recent graduate with a strong passion for web development and a solid foundation in programming, I am eager to kickstart my career as a React.js Developer. I am excited about the opportunity to apply my knowledge and skills to create dynamic and user-friendly web applications using React.js and related technologies.</h3>
+<h3 align="center">As a proficient front-end developer, I am skilled in modern web 
+technologies such as HTML, CSS, JavaScript, ReactJS, and 
+Redux. I have successfully reduced data retrieval time by 30% 
+through optimized API implementations in Firebase and have a 
+strong problem-solving aptitude for creating efficient and userfriendly web applications.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -11,7 +15,8 @@
 
 - 💬 Ask me about **Html,Css,Java Script**
 
-- 📫 How to reach me **nityapatel450@gmsil.com**
+- 📫 How to reach me **nityapatel450@gmsil.com** - 📄 Know about my experiences [https://drive.google.com/file/d/1D7aX4hUbbhAnIPV84L9ivJLCh2uATvFp/view?usp=drive_open]
+- (https://drive.google.com/file/d/1D7aX4hUbbhAnIPV84L9ivJLCh2uATvFp/view?usp=drive_open)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
